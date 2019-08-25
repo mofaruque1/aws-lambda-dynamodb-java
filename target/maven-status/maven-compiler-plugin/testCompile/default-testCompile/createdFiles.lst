@@ -1,0 +1,14 @@
+com/amazonaws/lambda/tutorial/TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+com/amazonaws/lambda/tutorial/TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+com/amazonaws/lambda/tutorial/TestContext$TestLogger.class
+com/amazonaws/lambda/tutorial/TestUtils.class
+com/amazonaws/lambda/tutorial/TestUtils$DynamodbEventMixin.class
+com/amazonaws/lambda/tutorial/TestUtils$DynamodbEventMixin$RecordMixin.class
+com/amazonaws/lambda/tutorial/TestContext$1.class
+com/amazonaws/lambda/tutorial/TestContext.class
+com/amazonaws/lambda/tutorial/TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+com/amazonaws/lambda/tutorial/TestUtils$DateTimeDeserializer.class
+com/amazonaws/lambda/tutorial/LambdaFunctionHandlerTest.class
+com/amazonaws/lambda/tutorial/TestUtils$TestJacksonMapperModule.class
+com/amazonaws/lambda/tutorial/TestUtils$1.class
+com/amazonaws/lambda/tutorial/TestUtils$DateTimeSerializer.class
